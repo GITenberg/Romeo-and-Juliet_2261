@@ -1,5 +1,5 @@
 _repo: Romeo-and-Juliet_2261
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Youth -- Drama'
 - !lcsh 'Conflict of generations -- Drama'
 - !lcsh 'Juliet (Fictitious character) -- Drama'
+- GITenberg
 title: Romeo and Juliet
 url: http://www.gutenberg.org/ebooks/2261
